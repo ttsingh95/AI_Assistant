@@ -2,9 +2,26 @@
 
 I wanted to take out time during my day and work on a side project that would incorporate a lot of what I learnt during my master's program as well as build a tool that would be useful in terms of its application.
 
-/In the last quarter of my program all my classes were virtual and so were meetings for my Capstone project and class project. After looking at my Zoom call logs I saw I had 50+ calls. Out of those calls I/
-
 Often people don't transcribe meetings or take meeting minutes so the majority of information discussed in calls are often lost. 
+
+Currently I'm using 140,000 interviews from NPR since it would be a good way to identify a range of topics and different phrases.
+
+## Process
+- Clean Text Function (iterates through rows)
+  - Convert words to lowercase (e.g. Hello → hello
+  - Replac accented characters (e.g. à → a)
+  - Break down contractions (e.g. don’t → do not)
+  - Filter out Stopwords (e.g. and, the)
+  - Remove punctuation (e.g. .,!/?)
+  - Lemmatize or (convert words to its base form)
+ - Descriptive Stats (add to dataframe)
+  - Total length of call
+  - Extract words spoken by each speaker
+    - Avg # words spoken
+    - % words spoken compared to all speakers
+ - Summarization function
+  - User can specify # sentences to summarize into
+
 
 ## Features 
 - Transcription in real-time (and saved as a .txt/.csv file)

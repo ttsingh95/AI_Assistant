@@ -1,4 +1,4 @@
-# AI Assistant
+# Quil: AI Assistant
 
 I wanted to take out time during my day and work on a side project that would incorporate a lot of what I learnt during my master's program as well as build a tool that would be useful in terms of its application.
 

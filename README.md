@@ -4,7 +4,7 @@ I wanted to take out time during my day and work on a side project that would in
 
 Often people don't transcribe meetings or take meeting minutes so the majority of information discussed in calls are often lost. 
 
-Currently I'm using 140,000 interviews from NPR since it would be a good way to identify a range of topics and different phrases.
+I'm currently creating and updating my website using Wix to showcase the work I'm doing (and have done) : https://tatiksha.wixsite.com/quil
 
 ## Process
 - Clean Text Function (iterates through rows)
